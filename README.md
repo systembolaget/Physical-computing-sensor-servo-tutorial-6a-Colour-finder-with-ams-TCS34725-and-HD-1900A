@@ -8,7 +8,7 @@ Social preview 1280 x 640 in "Settings" (also check the other repos!)
 
 ### Schematic
 
-#
+![](Assets/6a%20schematic.png)
 
 ### BOM
 
