@@ -1,1 +1,1 @@
-# Physical-computing-sensor-servo-tutorial-6a-Colour-finder-with-ams-TCS34725-and-servo
+# Physical computing sensor servo tutorial - Colour finder with ams TCS34725 and HD-1900A
