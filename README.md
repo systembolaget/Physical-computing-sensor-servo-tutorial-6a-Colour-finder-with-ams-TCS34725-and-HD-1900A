@@ -4,11 +4,15 @@ Social preview 1280 x 640 in "Settings" (also check the other repos!)
 
 ### Result
 
-#
+---
 
 ### Schematic
 
 ![](Assets/6a%20schematic.png)
+
+### Excel colour sample value averaging (necessary for coding)
+
+---
 
 ### BOM
 
