@@ -1,6 +1,6 @@
 # Physical computing sensor servo tutorial - Colour finder with ams TCS34725 and HD-1900A
 
-Variable effect, indicator or interface set-up, based on the **FastLED Arduino library**
+#
 
 ### Result
 
