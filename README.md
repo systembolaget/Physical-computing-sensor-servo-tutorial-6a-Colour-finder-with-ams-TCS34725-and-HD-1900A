@@ -10,7 +10,7 @@ Social preview 1280 x 640 in "Settings" (also check the other repos!)
 
 ![](Assets/6a%20schematic.png)
 
-### Excel RGB value averaging (necessary for coding) or colour "training"
+### Excel RGB value averaging or "colour training"
 
 ![](Assets/6a%20calibration.png)
 
