@@ -12,7 +12,7 @@ Social preview 1280 x 640 in "Settings" (also check the other repos!)
 
 ### Excel RGB value averaging or "colour training"
 
-![](Assets/6a%20calibration.png)
+![](Assets/6a%20RGB%20value%20averaging.png)
 
 ### BOM
 
