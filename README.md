@@ -1,6 +1,6 @@
 # Physical computing sensor servo tutorial - Colour finder with ams TCS34725 and HD-1900A
 
-Social preview 1280 x 640 in "Settings" (also check the other repos!)
+Identifying or sorting colours reliably via their Euclidean distance
 
 ### Result
 
