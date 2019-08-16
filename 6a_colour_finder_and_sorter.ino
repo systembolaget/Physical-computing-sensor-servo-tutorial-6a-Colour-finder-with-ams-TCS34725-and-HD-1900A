@@ -11,7 +11,6 @@
 
 // Variables that remain constant
 const byte interruptPin = 2; // Signal input pin from TCS34725 interrupt
-
 // Two-dimensional array containing averaged RGB values from "colour
 // training"; matching servo rotation angles for the 10° colour wheel
 // segments. No particular order or sorting of samples is necessary
