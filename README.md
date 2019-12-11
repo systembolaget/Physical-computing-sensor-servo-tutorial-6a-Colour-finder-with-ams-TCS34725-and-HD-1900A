@@ -1,6 +1,6 @@
-# Physical computing sensor servo tutorial - Colour finder with ams TCS34725 and HD-1900A
+# Physical computing sensor servo tutorial - Colour finder and sorter with ams TCS34725 and HD-1900A
 
-Identifying or sorting colours reliably via their Euclidean distance; reading from a sensor and driving a servo with millis() and ISR - say goodbye to blocking delay()
+Identifying and sorting colours reliably via their Euclidean distance; reading from a sensor and driving a servo with millis() and an ISR, saying goodbye to blocking delay()
 
 ### Result
 
