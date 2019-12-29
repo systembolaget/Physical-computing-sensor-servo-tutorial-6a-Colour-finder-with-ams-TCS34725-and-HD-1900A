@@ -1,6 +1,6 @@
 # Physical computing sensor servo tutorial - Colour finder and sorter with ams TCS34725 and HD-1900A
 
-Identifying and sorting colours reliably via their Euclidean distance. Reading from a sensor and driving a servo with Arduino using millis() and an ISR. Say goodbye to blocking delay()
+Identifying and sorting colours reliably via their Euclidean distance. How to read a sensor and drive a servo with Arduino using millis() and an ISR. Say goodbye to blocking delay()
 
 ### Result
 
