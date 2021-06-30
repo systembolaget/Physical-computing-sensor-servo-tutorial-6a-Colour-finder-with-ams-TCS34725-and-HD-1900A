@@ -2,9 +2,11 @@
 
 Identifying and sorting colours reliably via their Euclidean distance. How to read a sensor and drive a servo with Arduino using millis() and an ISR. Say goodbye to blocking delay()
 
-### Result
+### Setup
 
-![](Assets/6a%20result.jpg)
+You can click the image to play the associated YouTube video
+
+[![Alt text](Assets/6a%20result.jpg)](https://www.youtube.com/watch?v=FQnzRW4XukA)
 
 ### Schematic
 
